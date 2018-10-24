@@ -6,7 +6,6 @@ use Think\Controller;
 
 header('Content-type:text/html;charset=utf-8');
 
-//http://www.sucaihuo.com/H5/wxpay
 class Hweiontroller extends Controller {
 
 	private $app_id = ''; //appid
